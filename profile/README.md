@@ -37,17 +37,28 @@
   <summary>회원가입</summary>
   
   - 아동
+    ![Image](https://github.com/user-attachments/assets/9f9d5796-1e1c-477c-9e1b-9a93e9896037)
     
   - 매장
+    ![Image](https://github.com/user-attachments/assets/06e98418-6504-4515-8a53-8b3ce33d81c8)
     
 </details>
 
 <details>
   <summary>로그인</summary>
+
+  - 로그인
+    ![Image](https://github.com/user-attachments/assets/38dcec7c-e5f3-43c2-a4a1-5eaf62aa2d6c)
+    
+  - 로그아웃
+    ![Image](https://github.com/user-attachments/assets/01c15215-7a38-4b71-bf46-a8db95e67362)
 </details>
 
 <details>
   <summary>비밀번호 재설정</summary>
+  
+  - 비밀번호 재설정
+    ![Image](https://github.com/user-attachments/assets/188be6ab-bda9-4cf7-90d4-c12b5ae9e26b)
 </details>
 
 <details>
@@ -88,11 +99,14 @@
   <summary>회원 정보 관리</summary>
 
   - 회원 정보 수정
-
+    ![Image](https://github.com/user-attachments/assets/f431b602-badf-4b9b-81b8-24a69abba81e)
+    
   - 비밀번호 변경
+    ![Image](https://github.com/user-attachments/assets/2a927849-e7a9-4128-808b-9888244df309)
   
   - 회원 탈퇴
-
+    ![Image](https://github.com/user-attachments/assets/6aae88af-ff30-4de0-bc2f-b790545c56e5)
+    
   - 증명서류 보기 (아동)
 
 </details>
