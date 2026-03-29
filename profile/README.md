@@ -94,6 +94,7 @@
   - 회원 탈퇴
 
   - 증명서류 보기 (아동)
+    ![Image](https://github.com/user-attachments/assets/fdc896f9-bca0-48be-8315-5e6ce8fb3b35)
 
 </details>
 
