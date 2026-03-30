@@ -160,4 +160,4 @@
 
 [🔗Figma](https://www.figma.com/design/EgfQleO658TaUPMwTu2bw2/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---%EC%98%A8%ED%95%98%EB%A3%A8?node-id=0-1&p=f)
 
-[🔗ERD](https://www.erdcloud.com/d/ANY2sqGsvNAWE8qnW)
+[🔗ERD](https://www.erdcloud.com/d/kfz6ZvdjCQotD7eTj)
