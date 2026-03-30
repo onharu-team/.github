@@ -14,7 +14,7 @@
 | [임소현](https://github.com/lsohyuniil) | [김예슬](https://github.com/yeaseula) | [이종욱](https://github.com/net79736) | [최수관](https://github.com/thr13) |
 | :---: | :---: | :---: | :---: |
 | Frontend | Frontend | Backend | Backend |
-|  |  |  |  |
+|  |  |  | |
 
 <br/>
 
@@ -48,6 +48,7 @@
 
 <details>
   <summary>비밀번호 재설정</summary>
+  ![Image](https://github.com/user-attachments/assets/f5e08de7-c034-49ad-ab9e-c4761cdb9316)
 </details>
 
 <details>
