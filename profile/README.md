@@ -81,14 +81,25 @@
 
 <details>
   <summary>채팅</summary>
+   
+  - 채팅 (채팅하기, 나가기)
+    ![채팅](https://github.com/user-attachments/assets/7b8792a6-c212-451b-923f-01269b1538f5)
+
+  
+  - 채팅방 생성 및 들어가기
+    ![채팅하기](https://github.com/user-attachments/assets/7f419d34-c40f-4cad-987f-d8993c835d42)
+
 </details>
 
 <details>
   <summary>마이페이지</summary>
   
   - 아동
+    <img width="1155" height="907" alt="스크린샷 2026-03-30 오전 2 53 57" src="https://github.com/user-attachments/assets/f9c0a3c3-a37f-4872-8b05-1d2f5882d244" />
 
   - 매장
+    <img width="1160" height="979" alt="스크린샷 2026-03-30 오전 2 52 31" src="https://github.com/user-attachments/assets/388e9f9a-9679-4440-a1dd-1630c79dbd42" />
+
   
 </details>
 
@@ -112,29 +123,22 @@
 <details>
   <summary>나눔 관리 (매장)</summary>
 
-  - 나눔 등록
-    - 예약 확정
-    - 예약 취소
-    - 나눔 완료
-
-  - 나눔 내역
-    - 나눔 내역 삭제
-    - 전체 삭제
+  - 나눔 등록 (일정 선택, 항시 제공)
+    ![나눔등록](https://github.com/user-attachments/assets/22292632-9b1a-4859-9084-7ae45098c046)
+   
+  - 나눔 내역 (나눔 내역 삭제, 전체 삭제)
+    ![나눔내역](https://github.com/user-attachments/assets/7eb48bd2-551c-47eb-a2e5-c8182be20132)
 
 </details>
 
 <details>
   <summary>예약 내역</summary>
 
-  - 매장
-    - 예약 확정
-    - 예약 취소
-    - 나눔 완료
+  - 매장 (예약 확정, 예약 취소, 나눔 완료)
+    ![예약내역매장](https://github.com/user-attachments/assets/51bc4211-b266-4653-b76b-e5a7f28411d1)
 
-  - 아동
-    - 하루전 예약 취소
-    - 예약 취소
-    - 리뷰 작성
+  - 아동 (하루전 예약 취소, 예약 취소, 리뷰 작성)
+    ![예약내역아동](https://github.com/user-attachments/assets/19693a8f-5eee-4104-b78c-4986f2a84c45)
 
 </details>
 
