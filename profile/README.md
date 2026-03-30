@@ -135,7 +135,7 @@
   <summary>예약 내역</summary>
 
   - 매장 (예약 확정, 예약 취소, 나눔 완료)
-    ![예약내역매장](https://github.com/user-attachments/assets/51bc4211-b266-4653-b76b-e5a7f28411d1)
+    ![예약내역매장](https://github.com/user-attachments/assets/98c1302e-130b-4313-ae1d-42f3bd0bcf7e)
 
   - 아동 (하루전 예약 취소, 예약 취소, 리뷰 작성)
     ![예약내역아동](https://github.com/user-attachments/assets/19693a8f-5eee-4104-b78c-4986f2a84c45)
