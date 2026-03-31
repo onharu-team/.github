@@ -156,8 +156,8 @@
 <details>
   <summary>나의 활동 (아동)</summary>
 
-  - 감사 리뷰
-    ![my_write_review](https://github.com/user-attachments/assets/dc9a6e55-ed83-4249-9889-420934152a01)
+  - 감사 리뷰    
+    ![wrtie_thanks_review](https://github.com/user-attachments/assets/ca9fed7c-1433-4b86-8360-ca058bae36ea)
 
   - 관심 목록
     ![my_fovorite](https://github.com/user-attachments/assets/caba10ec-98f0-4c1c-942f-4df4544f5d71)
