@@ -146,8 +146,10 @@
   <summary>가게 관리 (매장)</summary>
 
   - 가게 등록
+    ![register_store](https://github.com/user-attachments/assets/dabfe46f-782d-40f4-be2a-c21a67238935)
 
   - 내가 받은 감사카드
+    ![given_thanks_review](https://github.com/user-attachments/assets/e94c2dcc-0d0c-42e9-bcd4-a074e93c7374)
 
 </details>
 
@@ -155,17 +157,19 @@
   <summary>나의 활동 (아동)</summary>
 
   - 감사 리뷰
+    ![my_write_review](https://github.com/user-attachments/assets/dc9a6e55-ed83-4249-9889-420934152a01)
 
   - 관심 목록
+    ![my_fovorite](https://github.com/user-attachments/assets/caba10ec-98f0-4c1c-942f-4df4544f5d71)
 
 </details>
 
 <details>
   <summary>알림</summary>
 
-  - 알림 내역
+  - 알림 설정/내역
+    ![arlam](https://github.com/user-attachments/assets/4fe4274e-ca5a-4e1f-b1b0-6b794226698d)
 
-  - 알림 설정
 
 </details>
 
