@@ -29,7 +29,10 @@
 <details>
   <summary>메인</summary>
 
+![메인페이지pc (1)](https://github.com/user-attachments/assets/7ce7f4ea-ce19-4b48-b606-2afcdd99644a)
+
   - 반응형
+![메인페이지 모바일](https://github.com/user-attachments/assets/334fa56c-5970-4ab5-b0d6-460065e1cd38)
 
 </details>
 
@@ -60,22 +63,32 @@
 
 <details>
   <summary>나눔 가게</summary>
+
+![나눔가게](https://github.com/user-attachments/assets/fd4fe53a-8bd1-4c16-8fdb-ab7a0f6f7ba4)
+
+  
 </details>
 
 <details>
   <summary>나눔 가게 상세</summary>
+
+![상세페이지](https://github.com/user-attachments/assets/43cd539c-b41c-4734-804f-00e6de852b3e)
+
+  
 </details>
 
 <details>
   <summary>나눔 가게 예약</summary>
+
+![예약하기](https://github.com/user-attachments/assets/17f8a34b-f666-4845-8005-16b603ca9a9f)
+
+  
 </details>
 
 <details>
   <summary>지도</summary>
   
-  - 위치 변경
-  
-  - 검색
+
     
 </details>
 
