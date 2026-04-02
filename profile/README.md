@@ -11,12 +11,51 @@
 
 ## 🧑‍💻 개발자
 
-| [임소현](https://github.com/lsohyuniil) | [김예슬](https://github.com/yeaseula) | [이종욱](https://github.com/net79736) | [최수관](https://github.com/thr13) |
-| :---: | :---: | :---: | :---: |
-| Frontend | Frontend | Backend | Backend |
-|  |  |  |  |
-
-<br/>
+<table>
+  <tr>
+    <th width="250"><a href="https://github.com/lsohyuniil">임소현</a></th>
+    <th width="250"><a href="https://github.com/yeaseula">김예슬</a></th>
+    <th width="250"><a href="https://github.com/net79736">이종욱</a></th>
+    <th width="250"><a href="https://github.com/thr13">최수관</a></th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://avatars.githubusercontent.com/u/202387121?v=4" width="100" height="100"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/103632412?v=4" width="100" height="100"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/34103253?v=4" width="100" height="100"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/158554796?v=4" width="100" height="100"></td>
+  </tr>
+  <tr align="center">
+    <td><strong>Frontend</strong></td>
+    <td><strong>Frontend</strong></td>
+    <td><strong>Backend</strong></td>
+    <td><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td align="left">
+      <ul>
+        <li>로그인/회원가입, 마이페이지, 채팅 기능 구현</li>
+        <li>프론트엔드 개발 환경 구축 및 배포</li>
+      </ul>
+    </td>
+    <td align="left">
+      <ul>
+        <li>나눔가게 목록/상세, 예약, 지도 기능 구현</li>
+      </ul>
+    </td>
+    <td align="left">
+      <ul>
+        <li>예약/가게 관련 API 및 알림 시스템 개발</li>
+        <li>백엔드 서비스 아키텍처 설계 및 인프라 구축</li>
+      </ul>
+    </td>
+    <td align="left">
+      <ul>
+        <li>로그인/회원가입 인증 API, 실시간 채팅 서버 개발</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</br>
 
 ## 🛠 기술 스택
 
